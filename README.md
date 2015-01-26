@@ -21,3 +21,12 @@ My research interests are in developing statistical models to address customer r
 Though I have a very naive understanding of Bayesian statistics, my objective from this course is to understand the subject in greater depth, be acquainted and eventually master the use of softwares required in estimating Bayesian models and by the end of the summer be proficient in using Bayesian estimation techniques in my second year summer paper.  
 My second year summer paper is aimed at understanding how  the varying patterns of cross-buying from a multi-category seller impacts the customer relationship dynamics with the firm. I propose to study this in context of a Hidden Markov Model where the relationship states of the customer with the firm are hidden/latent. The underlying base model is a multivariate logit model with the latent utility function containing random customer specific intercepts. Similar work in the literature has been estimated using Bayesian algorithms aforementioned in the essay. 
 
+---
+
+# Example of the Data to be Used for the above research problem
+
+![](file:///C:\BayesianCourse\image.png?raw=true)
+
+
+
+
