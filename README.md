@@ -1,12 +1,18 @@
 # Bayesian Data Analysis: Assignment 1
 ----
 
-#Personal Information
+# Personal Information
 
 Name: Sharmistha Sikdar  
 Major: Quantitative Marketing  
-School: Johnson Graduate School of Management
-Student Status: 2nd Year PhD Student  
+School: Johnson Graduate School of Management  
+Student Status: 2nd Yr PhD Student 
+
+---
+
+# About Me
+
+I am a second year PhD student at SC Johnson Graduate School of Management, specializing in Quantitative Marketing. I have a Masters degree in Quantitative Economics from Indian Statistical Institute, Calcutta, India. I have over eight years of work experience in the Analytics industry specializing in Customer Analytics and Consumer Financial Analytics. 
 
 -----
 #Research Interests in Bayesian Statistics
