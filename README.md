@@ -25,7 +25,8 @@ My second year summer paper is aimed at understanding how  the varying patterns 
 
 # Example of the Data to be Used for the above research problem
 
-![](file:///C:\BayesianCourse\image.png)  
+![](https://github.com/sharmi0013/CU-BDA-Lab01/blob/master/Image.PNG)  
+
 
 
 
